@@ -23,6 +23,10 @@ const BodyPart = ({item , setBodyPart , bodyPart}) => {
 
        } : ' '
 
+
+
+       
+
     }
     
     
